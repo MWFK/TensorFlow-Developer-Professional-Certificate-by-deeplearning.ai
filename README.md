@@ -8,7 +8,7 @@ After finishing this program, you’ll be able to apply your new TensorFlow skil
 This program can help you prepare for the Google TensorFlow Certificate exam and bring you one step closer to achieving the Google TensorFlow Certificate.
 
 
-Credits
+# Credits
 
 Laurence Moroney
 Lead AI Advocate
