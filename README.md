@@ -1,6 +1,4 @@
-![title](Images/example.png)
-
-
+![deeplearning.ai](/deeplearningai.jpg)
 
 # DeepLearning.AI-TensorFlow-Developer-Professional-Certificate-by-deeplearning.ai
 
